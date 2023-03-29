@@ -44,3 +44,4 @@
 | M_Basic_FlowerCenter  | M_Basic      | ![](https://via.placeholder.com/16/FFA700/?text=%20) FFA700 | 0    | 0.5  | 0.75 | 0   |
 | M_Liquid              |              | ![](https://via.placeholder.com/16/FFFFFF/?text=%20) FFFFFF | 0    | 0.5  | 0.1  | 0   |
 | M_Liquid_Water        | M_Liquid     | ![](https://via.placeholder.com/16/09A8ED/?text=%20) 09A8ED | 0    | 0.5  | 0.1  | 0   |
+| M_Paint               | M_Basic      | ![](https://via.placeholder.com/16/FFFFFF/?text=%20) FFFFFF | .25  | 0.5  | 0.1  | 0   |
