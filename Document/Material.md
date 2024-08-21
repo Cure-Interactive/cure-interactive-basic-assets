@@ -9,7 +9,7 @@
 
 ## List
 
-| Name                      | Parent              | Color                                                       | M    | S    | R    | E   |
+| Name                      | Parent              | Color                                                       | Meta | Spec | Roug | Emi |
 | ------------------------- | ------------------- | ----------------------------------------------------------- | ---- | ---- | ---- | --- |
 | M_Basic                   | None                | ![](https://via.placeholder.com/16/FFFFFF/?text=%20) FFFFFF | 0    | 0.5  | 0.5  | 0   |
 | M_Basic_Ash               | M_Basic             | ![](https://via.placeholder.com/16/323232/?text=%20) 323232 | 0    | 0    | 1    | 0   |
