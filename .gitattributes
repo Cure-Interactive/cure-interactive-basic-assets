@@ -1,0 +1,29 @@
+﻿# BEGIN managed: EOL/Binary baseline
+# Enforce deterministic line endings across machines for stable content hashes
+* text=auto eol=lf
+
+# Common binary assets should never undergo line-ending normalization
+# Note: Unlisted binary formats are usually still safe with text=auto; add explicit "*.ext binary" rules for custom/critical binary types.
+*.png binary
+*.jpg binary
+*.jpeg binary
+*.gif binary
+*.webp binary
+*.ico binary
+*.pdf binary
+*.zip binary
+*.woff binary
+*.woff2 binary
+*.ttf binary
+*.eot binary
+*.mp3 binary
+*.mp4 binary
+*.webm binary
+*.ogg binary
+# END managed: EOL/Binary baseline
+
+# BEGIN managed: project-specific binary extensions
+# Project-specific binary assets detected in this repository
+# These entries are specific to this project (or project type) and were auto-detected from tracked files.
+*.blend binary
+# END managed: project-specific binary extensions
