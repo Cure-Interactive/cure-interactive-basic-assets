@@ -1,0 +1,18 @@
+{
+  "git.enabled": true,
+  "git.openRepositoryInParentFolders": "never",
+  "git.autoRepositoryDetection": "openEditors",
+  "git.repositoryScanMaxDepth": 1,
+  "git.autofetch": false,
+  "git.fetchOnPull": false,
+  "git.confirmSync": true,
+  "git.enableStatusBarSync": false,
+  "git.postCommitCommand": "none",
+  "git.showActionButton": {
+    "commit": true,
+    "publish": false,
+    "sync": false
+  },
+  "gitlens.autoFetch.enabled": false,
+  "chatgpt.openOnStartup": true
+}
