@@ -1,2 +1,22 @@
+# Exported 3D models / scenes
+*.fbx
+*.obj
+*.mtl
+*.glb
+*.gltf
+*.dae
+*.3ds
+*.abc
+*.usd
+*.usda
+*.usdc
+*.usdz
+*.stl
+*.ply
+*.x3d
+*.wrl
+
+# Blender backups / Windows metadata
 *.blend1
+*.blend2
 desktop.ini
